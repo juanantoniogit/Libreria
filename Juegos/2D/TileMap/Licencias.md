@@ -8,8 +8,8 @@ Art Type: 2D Art
 ***
 
 * [Nombre: The marauder](https://opengameart.org/content/the-marauder) 
-*marauder_bg_ver_iiig_tb.png
-*marauder_set_i_tb.png
+* marauder_bg_ver_iiig_tb.png
+* marauder_set_i_tb.png
 Author: drakzlin
 Sunday, March 12, 2023 - 10:54
 Art Type:2D Art
@@ -18,10 +18,10 @@ Art Type:2D Art
 
 
 [Nombre: Tiny 16: Basic](https://opengameart.org/content/tiny-16-basic)
-*basictiles.png
-*things.png
-*dead.png
-*fontlarge
+* basictiles.png
+* things.png
+* dead.png
+* fontlarge
 Author:Sharm
 Thursday, May 30, 2013 - 08:37
 Art Type: 2D Art
