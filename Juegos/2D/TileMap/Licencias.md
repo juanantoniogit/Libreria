@@ -1,3 +1,9 @@
+ Juego             | Compañia    | Clasificacion | Precio (MXN) |
+|-------------------|-------------|---------------|--------------|
+| Animal Crossing   | Nintendo    | E             | 1600         |
+
+
+
 * [Nombre: The marauder](https://opengameart.org/content/the-marauder)   
   * marauder_bg_ver_iiig_tb.png  
   * marauder_set_i_tb.png  
