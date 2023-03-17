@@ -5,6 +5,7 @@
   Wednesday, March 15, 2023 - 17:55
   Art Type: 2D Art
   [License(s): CCO](https://creativecommons.org/publicdomain/zero/1.0/deed.es_ES)
+  ![Alt text](https://github.com/juanantoniogit/Libreria/blob/main/Juegos/2D/TileMap/360die2048transparent.png)
 ***
 
 * [Nombre: The marauder](https://opengameart.org/content/the-marauder) 
