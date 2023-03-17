@@ -5,9 +5,11 @@
   Sunday, March 12, 2023 - 10:54  
   Art Type:2D Art  
   [License(s): CCO](https://creativecommons.org/publicdomain/zero/1.0/deed.es_ES)  
+   | imagenes | prueba |
+    | --- | --- |
   | ![Alt text](https://github.com/juanantoniogit/Libreria/blob/main/Juegos/2D/TileMap/marauder_bg_ver_iiig_tb.png) 
   | ![Alt text](https://github.com/juanantoniogit/Libreria/blob/main/Juegos/2D/TileMap/marauder_set_i_tb.png) |
-  | --- | --- |
+ 
 ***
 
 
