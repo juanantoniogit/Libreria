@@ -4,7 +4,8 @@
   Author: drakzlin  
   Sunday, March 12, 2023 - 10:54  
   Art Type:2D Art  
-  [License(s): CCO](https://creativecommons.org/publicdomain/zero/1.0/deed.es_ES)  
+  [License(s): CCO](https://creativecommons.org/publicdomain/zero/1.0/deed.es_ES) 
+  
    | imagenes | prueba |
     | --- | --- |
   | ![Alt text](https://github.com/juanantoniogit/Libreria/blob/main/Juegos/2D/TileMap/marauder_bg_ver_iiig_tb.png) 
@@ -20,6 +21,7 @@ Author:Kenney
 Wednesday, January 29, 2014 - 02:45  
 Art Type:2D Art  
 [License(s): CCO](https://creativecommons.org/publicdomain/zero/1.0/deed.es_ES)  
+
 | ![Alt text](https://github.com/juanantoniogit/Libreria/blob/main/Juegos/2D/TileMap/SpaceShooterRedux/preview.png) |
 | --- | --- |
   
@@ -36,7 +38,8 @@ Hyptosis
 Redshrike  
 Bertram   
 Art Type: 2D Art  
-[License(s): CCO](https://creativecommons.org/publicdomain/zero/1.0/deed.es_ES)  
+[License(s): CCO](https://creativecommons.org/publicdomain/zero/1.0/deed.es_ES) 
+
 | ![Alt text](https://github.com/juanantoniogit/Libreria/blob/main/Juegos/2D/TileMap/PathAndObjects.png) |
  | -- |
 ***
@@ -58,6 +61,7 @@ Art Type: 2D Art
   Thursday, May 30, 2013 - 08:37  
   Art Type: 2D Art  
   [License(s): CCO](https://creativecommons.org/publicdomain/zero/1.0/deed.es_ES)  
+  
   | ![Alt text](https://github.com/juanantoniogit/Libreria/blob/main/Juegos/2D/TileMap/things.png)
   | ![Alt text](https://github.com/juanantoniogit/Libreria/blob/main/Juegos/2D/TileMap/fontlarge.png)  
   | ![Alt text](https://github.com/juanantoniogit/Libreria/blob/main/Juegos/2D/TileMap/dead.png)|
@@ -76,6 +80,7 @@ Author: MedicineStorm
 Wednesday, September 27, 2017 - 17:11  
 Art Type: 2D Art   
 [License(s): CCO](https://creativecommons.org/publicdomain/zero/1.0/deed.es_ES)  
+
 | ![Alt text](https://github.com/juanantoniogit/Libreria/blob/main/Juegos/2D/TileMap/ProjectUtumno_supplemental.png) 
 | ![Alt text](https://github.com/juanantoniogit/Libreria/blob/main/Juegos/2D/TileMap/ProjectUtumno_full.png) |
 | -- | -- |
@@ -90,6 +95,7 @@ Art Type: 2D Art
   Wednesday, March 15, 2023 - 17:55  
   Art Type: 2D Art  
   [License(s): CCO](https://creativecommons.org/publicdomain/zero/1.0/deed.es_ES)  
+  
   | ![Alt text](https://github.com/juanantoniogit/Libreria/blob/main/Juegos/2D/TileMap/360die2048transparent.png) |
   | -- |
 ***
