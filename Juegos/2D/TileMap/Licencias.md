@@ -2,6 +2,7 @@
 |-------------------|-------------|---------------|--------------|
 | Animal Crossing   | Nintendo    | E             | 1600         |
 
+| Juego             | Compañia    | Clasificacion | Precio (MXN) |
 |-------------------|-------------|---------------|--------------|
 | Animal Crossing   | Nintendo    | E             | 1600         |
 
