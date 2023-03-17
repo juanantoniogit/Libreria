@@ -1,12 +1,4 @@
 
-* [Nombre: 360 Degree Die Spritesheet](https://opengameart.org/content/360-degree-die-spritesheet)
-  * 360die2048transparent.png  
-  Author: DoubleStickDude  
-  Wednesday, March 15, 2023 - 17:55  
-  Art Type: 2D Art  
-  [License(s): CCO](https://creativecommons.org/publicdomain/zero/1.0/deed.es_ES)  
-  |![Alt text](https://github.com/juanantoniogit/Libreria/blob/main/Juegos/2D/TileMap/360die2048transparent.png)|||
-***
 
 * [Nombre: The marauder](https://opengameart.org/content/the-marauder)   
   * marauder_bg_ver_iiig_tb.png  
@@ -19,7 +11,7 @@
 ***
 
 
-[Nombre: Tiny 16: Basic](https://opengameart.org/content/tiny-16-basic)  
+* [Nombre: Tiny 16: Basic](https://opengameart.org/content/tiny-16-basic)  
   * basictiles.png  
   * things.png  
   * dead.png 
@@ -39,15 +31,25 @@
 ***
 
 
-[Nombre: Dungeon Crawl 32x32 tiles supplemental](https://opengameart.org/content/dungeon-crawl-32x32-tiles-supplemental)  
+* [Nombre: Dungeon Crawl 32x32 tiles supplemental](https://opengameart.org/content/dungeon-crawl-32x32-tiles-supplemental)  
  *ProjectUtumno_full.png
  *ProjectUtumno_supplemental.png 
 Author: MedicineStorm  
 Wednesday, September 27, 2017 - 17:11  
 Art Type: 2D Art   
-|![Alt text](https://github.com/juanantoniogit/Libreria/blob/main/Juegos/2D/TileMap/ProjectUtumno_supplemental.png)  
-|![Alt text](https://github.com/juanantoniogit/Libreria/blob/main/Juegos/2D/TileMap/ProjectUtumno_full.png)|  
+|![Alt text](https://github.com/juanantoniogit/Libreria/blob/main/Juegos/2D/TileMap/ProjectUtumno_supplemental.png)|![Alt text](https://github.com/juanantoniogit/Libreria/blob/main/Juegos/2D/TileMap/ProjectUtumno_full.png)||
 
 [License(s): CCO](https://creativecommons.org/publicdomain/zero/1.0/deed.es_ES)  
 ***
+
+
+* [Nombre: 360 Degree Die Spritesheet](https://opengameart.org/content/360-degree-die-spritesheet)
+  * 360die2048transparent.png  
+  Author: DoubleStickDude  
+  Wednesday, March 15, 2023 - 17:55  
+  Art Type: 2D Art  
+  [License(s): CCO](https://creativecommons.org/publicdomain/zero/1.0/deed.es_ES)  
+  |![Alt text](https://github.com/juanantoniogit/Libreria/blob/main/Juegos/2D/TileMap/360die2048transparent.png)|||
+***
+
 
