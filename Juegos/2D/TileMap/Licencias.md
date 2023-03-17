@@ -5,11 +5,24 @@ Wednesday, January 29, 2014 - 02:45
 Art Type:2D Art  
 [License(s): CCO](https://creativecommons.org/publicdomain/zero/1.0/deed.es_ES)  
 |![Alt text](https://github.com/juanantoniogit/Libreria/blob/main/Juegos/2D/TileMap/SpaceShooterRedux/preview.png)|
-  [License(s): CCO](https://creativecommons.org/publicdomain/zero/1.0/deed.es_ES)  
+  
 ***
 
 
-
+* [Nombre: RPG Tiles: Cobble stone paths & town objects](https://opengameart.org/content/rpg-tiles-cobble-stone-paths-town-objects)
+Author: Zabin, Daneeklu, Jetrel, Hyptosis, Redshrike, Bertram (Submitted by Zabin)  
+Thursday, January 31, 2013 - 05:06  
+Collaborators:  
+daneeklu  
+Jetrel  
+Hyptosis  
+Redshrike  
+Bertram   
+Art Type: 2D Art  
+[License(s): CCO](https://creativecommons.org/publicdomain/zero/1.0/deed.es_ES)  
+|![Alt text](https://github.com/juanantoniogit/Libreria/blob/main/Juegos/2D/TileMap/PathAndObjects.png)|
+  
+***
 
 
 
