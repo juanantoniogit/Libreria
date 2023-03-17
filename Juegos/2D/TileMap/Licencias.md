@@ -45,8 +45,9 @@
 Author: MedicineStorm  
 Wednesday, September 27, 2017 - 17:11  
 Art Type: 2D Art   
-|![Alt text](https://github.com/juanantoniogit/Libreria/blob/main/Juegos/2D/TileMap/ProjectUtumno_supplemental.png)
-|![Alt text](https://github.com/juanantoniogit/Libreria/blob/main/Juegos/2D/TileMap/ProjectUtumno_full.png)|
+|![Alt text](https://github.com/juanantoniogit/Libreria/blob/main/Juegos/2D/TileMap/ProjectUtumno_supplemental.png)  
+|![Alt text](https://github.com/juanantoniogit/Libreria/blob/main/Juegos/2D/TileMap/ProjectUtumno_full.png)|  
+
 [License(s): CCO](https://creativecommons.org/publicdomain/zero/1.0/deed.es_ES)  
 ***
 
