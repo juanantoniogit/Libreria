@@ -18,8 +18,7 @@
   
   | preview|   |
   | --- | --- |
-  | ![Alt text](https://github.com/juanantoniogit/Libreria/blob/main/Juegos/2D/TileMap/marauder_bg_ver_iiig_tb.png) 
-  | ![Alt text](https://github.com/juanantoniogit/Libreria/blob/main/Juegos/2D/TileMap/marauder_set_i_tb.png) |
+  | ![Alt text](https://github.com/juanantoniogit/Libreria/blob/main/Juegos/2D/TileMap/marauder_bg_ver_iiig_tb.png)| ![Alt text](https://github.com/juanantoniogit/Libreria/blob/main/Juegos/2D/TileMap/marauder_set_i_tb.png) |
  
 ***
 
